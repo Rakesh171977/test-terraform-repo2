@@ -1,2 +1,3 @@
-# test-terraform-repo2
-My awesome codebase created using terraform
+# My Terraform Repo
+
+This repository was created using Terraform!
